@@ -1,10 +1,10 @@
-package com.innovem.nlp.ictclas4j_cs;
-
+package nlp.cws;
 
 import nlp.cws.top.WordSegment;
 import nlp.cws.utility.WordResult;
 
 public class WordSegmentSample {
+	
 	private int nKind = 1; // 在NShortPath方法中用来决定初步切分时分成几种结果
 	private WordSegment wordSegment;
 

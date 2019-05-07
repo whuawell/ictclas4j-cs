@@ -1,4 +1,4 @@
-package com.innovem.nlp.ictclas4j_cs;
+package nlp.cws;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
