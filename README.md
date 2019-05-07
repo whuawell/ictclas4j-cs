@@ -1,0 +1,1 @@
+开源分词工具ictclas改造成java版本，参考了csharp版本。
