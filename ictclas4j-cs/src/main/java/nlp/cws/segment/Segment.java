@@ -201,7 +201,7 @@ public class Segment {
 					pCur++;
 				}
 			}
-			// 对于所有其它情况
+			// 对于所有其它情况 CT_LETTER
 			else {
 				atomSegment.add(new AtomNode(
 						(new Character(charArray[pCur])).toString(), nCurType));
